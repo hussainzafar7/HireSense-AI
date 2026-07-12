@@ -1,0 +1,19 @@
+{
+  "programming_fundamentals": {"topics": ["OOP","recursion","pointers","memory management","SOLID","exception handling","generics","lambda","concurrency","multithreading","async/await","closures","interfaces"]},
+  "data_structures": {"topics": ["arrays","linked lists","stacks","queues","trees","BST","graphs","hash tables","heaps","tries","segment trees","BFS","DFS","topological sort"]},
+  "algorithms": {"topics": ["Big O notation","bubble/merge/quick sort","binary search","dynamic programming","greedy","divide and conquer","Dijkstra","Floyd-Warshall","two pointers","sliding window","backtracking","KMP string matching"]},
+  "databases": {"topics": ["SQL joins","normalization 1NF-3NF","indexing","ACID transactions","NoSQL vs SQL","MongoDB","Redis","query optimization","stored procedures","ER diagrams","sharding","replication","connection pooling"]},
+  "operating_systems": {"topics": ["process vs thread","CPU scheduling","deadlock","memory management","virtual memory","paging","file systems","semaphores","mutexes","context switching","system calls","IPC"]},
+  "computer_networks": {"topics": ["OSI model","TCP vs UDP","HTTP/HTTPS","DNS","IP addressing","subnetting","routing protocols","REST API","WebSockets","CDN","load balancing","TLS/SSL","HTTP/2 vs HTTP/3"]},
+  "software_engineering": {"topics": ["SDLC","Agile","Scrum","Git workflow","CI/CD","unit testing","integration testing","code review","refactoring","technical debt","microservices","monolith vs microservices","API design","versioning"]},
+  "web_development": {"topics": ["HTML/CSS","JavaScript event loop","React hooks","Redux","Next.js SSR vs CSR","REST vs GraphQL","JWT","OAuth 2.0","responsive design","browser storage","DOM manipulation","webpack","PWA"]},
+  "machine_learning": {"topics": ["supervised vs unsupervised","overfitting","regularization","gradient descent","backpropagation","feature engineering","cross-validation","bias-variance tradeoff","ensemble methods","SVM","decision trees","random forests","k-means","PCA","ROC AUC"]},
+  "deep_learning": {"topics": ["CNN architecture","RNN/LSTM","transformers","attention mechanism","transfer learning","batch normalization","dropout","Adam optimizer","loss functions","word embeddings","BERT","fine-tuning","GANs"]},
+  "cloud_devops": {"topics": ["Docker","Kubernetes","CI/CD pipelines","AWS S3/EC2/Lambda","infrastructure as code","Terraform","monitoring","logging","auto-scaling","serverless","container orchestration","blue-green deployment"]},
+  "graphic_design_cs": {"topics": ["UI/UX principles","Figma","wireframing","color theory","typography","responsive design","accessibility WCAG","design systems","prototyping","vector vs raster","information architecture"]},
+  "mobile_development": {"topics": ["React Native","Flutter","Dart","app lifecycle","state management","SQLite mobile","push notifications","native vs cross-platform","app store deployment","deep linking","offline storage"]},
+  "data_science": {"topics": ["pandas","numpy","EDA","statistical analysis","hypothesis testing","A/B testing","data cleaning","feature selection","PCA","Jupyter","data visualization","correlation vs causation","outlier detection"]},
+  "behavioral": {"topics": ["teamwork","conflict resolution","leadership","time management","failure and learning","career goals","work style","adaptability"]},
+  "behavioral_experience": {"topics": ["past project","biggest challenge","debugging hard bug","learning new technology","working under pressure","mentoring others","disagreement with team","deadline management"]},
+  "problem_solving": {"topics": ["algorithm design","system design basics","debugging approach","optimization thinking","trade-off analysis","estimation problems","scalability thinking"]}
+}

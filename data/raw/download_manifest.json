@@ -1,0 +1,108 @@
+{
+  "datasets": {
+    "squad_train": {
+      "ok": true,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\squad_train.json",
+      "method": "requests",
+      "bytes": 42123633
+    },
+    "squad_dev": {
+      "ok": true,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\squad_dev.json",
+      "method": "requests",
+      "bytes": 4370528
+    },
+    "qnli": {
+      "ok": true,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\QNLI.zip",
+      "method": "requests",
+      "bytes": 10627589
+    },
+    "arc": {
+      "ok": true,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\ARC.zip",
+      "method": "requests",
+      "bytes": 680841265
+    },
+    "awesome_interview_questions": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\awesome_interview_questions.md",
+      "url": "https://raw.githubusercontent.com/MaximAbramchuck/awesome-interview-questions/master/README.md"
+    },
+    "langchain_python_qa": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\langchain_python_docs_qa.jsonl",
+      "url": "https://huggingface.co/datasets/LangChainDatasets/langchain-python-docs-qa/resolve/main/langchain-python-docs-qa.jsonl"
+    },
+    "race_train": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\race_train.json",
+      "url": "https://huggingface.co/datasets/ehovy/race/resolve/main/data/all/train.json"
+    },
+    "techqa_train": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\techqa_train.json",
+      "url": "https://huggingface.co/datasets/ibm/techqa/resolve/main/data/train.json"
+    },
+    "interview_questions": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\interview_questions.parquet",
+      "url": "https://huggingface.co/datasets/Quansight/interview-questions/resolve/main/data/train-00000-of-00001.parquet"
+    },
+    "resume_atlas": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\resume_atlas.parquet",
+      "url": "https://huggingface.co/datasets/ahmedheakl/resume-atlas/resolve/main/data/train-00000-of-00001.parquet"
+    },
+    "resume_entities": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\resume_entities.parquet",
+      "url": "https://huggingface.co/datasets/Sachinkelenjagadeeswaran/resumes-dataset/resolve/main/data/train-00000-of-00001.parquet"
+    },
+    "job_descriptions": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\job_descriptions.parquet",
+      "url": "https://huggingface.co/datasets/jacob-hugging-face/job-descriptions/resolve/main/data/train-00000-of-00001.parquet"
+    },
+    "linkedin_jobs_skills": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\linkedin_jobs_skills.parquet",
+      "url": "https://huggingface.co/datasets/cfahlgren1/react-code-instructions/resolve/main/data/train-00000-of-00001.parquet"
+    },
+    "textbook_quality": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\textbook_quality.parquet",
+      "url": "https://huggingface.co/datasets/vikp/textbook_quality/resolve/main/data/train-00000-of-00001.parquet"
+    },
+    "apps": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\apps.parquet",
+      "url": "https://huggingface.co/datasets/codeparrot/apps/resolve/main/data/train-00000-of-00001.parquet"
+    },
+    "mmlu_pro": {
+      "ok": true,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\mmlu_pro.parquet",
+      "method": "requests",
+      "bytes": 4144185
+    },
+    "msmarco_train": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\msmarco_train.json.gz",
+      "url": "https://msmarco.blob.core.windows.net/msmarco/train_v2.1.json.gz"
+    },
+    "msmarco_dev": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\msmarco_dev.json.gz",
+      "url": "https://msmarco.blob.core.windows.net/msmarco/dev_v2.1.json.gz"
+    },
+    "natural_questions": {
+      "ok": false,
+      "path": "D:\\hireAI\\hiresense_ai\\data\\raw\\natural_questions.json.gz",
+      "url": "https://storage.googleapis.com/natural_questions/v1.0-simplified/simplified-nq-train.jsonl.gz"
+    }
+  },
+  "summary": {
+    "successful": 5,
+    "attempted": 19
+  }
+}

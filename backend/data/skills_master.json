@@ -1,0 +1,11 @@
+{
+  "languages": ["Python","Java","C++","C","JavaScript","TypeScript","Go","Rust","PHP","Ruby","Swift","Kotlin","Dart","R","MATLAB","Scala","C#"],
+  "frontend": ["React","Vue.js","Angular","Next.js","HTML","CSS","Tailwind","Bootstrap","Redux","jQuery","Webpack","SASS"],
+  "backend": ["Flask","Django","FastAPI","Node.js","Express.js","Spring Boot","Laravel","GraphQL","REST API","ASP.NET"],
+  "databases": ["MySQL","PostgreSQL","MongoDB","Redis","SQLite","Cassandra","Elasticsearch","DynamoDB","Oracle","Firebase"],
+  "devops": ["Docker","Kubernetes","Jenkins","GitHub Actions","GitLab CI","Terraform","Ansible","AWS","GCP","Azure","Linux","Bash"],
+  "ml_ai": ["scikit-learn","TensorFlow","PyTorch","Keras","NumPy","pandas","Matplotlib","Seaborn","NLTK","spaCy","Hugging Face","OpenCV","XGBoost","LightGBM"],
+  "tools": ["Git","GitHub","Jira","Postman","VS Code","IntelliJ","PyCharm","Figma","Slack","Trello"],
+  "mobile": ["React Native","Flutter","Android","iOS","Swift","Kotlin"],
+  "concepts": ["OOP","SOLID","Design Patterns","Microservices","REST","GraphQL","CI/CD","Agile","Scrum","TDD","DevOps"]
+}

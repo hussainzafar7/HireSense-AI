@@ -1,0 +1,11 @@
+{
+  "accuracy": 1.0,
+  "cv_mean": 1.0,
+  "cv_std": 0.0,
+  "rows": 5000,
+  "sentence_transformer": {
+    "available": true,
+    "path": "D:\\hireAI\\hiresense_ai\\models\\answer_evaluator\\sentence_transformer",
+    "backend": "sentence-transformers"
+  }
+}
